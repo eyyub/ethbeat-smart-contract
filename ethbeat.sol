@@ -2,7 +2,7 @@ pragma solidity ^0.4.11;
 
 /*
  * Ethbeat(like a heartbeat) simple smart contract acting as a proof that
- * an account was alive at least at a certain block number. 
+ * an account was at least alive at a certain block number. 
 */
 contract Ethbeat {
 
